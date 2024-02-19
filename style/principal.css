@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+  
+:root{
+    --fonteGay: Cedarville , Cursive;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+}
+#initial{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 80vh;
+    padding-left: 30px;
+    font-size: 3.5vw;
+}
+.Titulo {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+h1{
+    font-weight: 400;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 2px 8px black;
+}
+.backgound{
+    background-image: url(../img/imhNutriPrince.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+#segund{
+    background-color: whitesmoke;
+    height: 500px;
+    padding-top: 20vh;
+}
+#menu{
+    text-align: center;
+    background-color: white;
+    width: 60vw;
+    height: 300px;
+    margin: auto;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.256);
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+aside{
+    height: 400px;
+}
+
