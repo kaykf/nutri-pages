@@ -9,6 +9,9 @@
         width: 30vw;
         font-size: 1em;
     }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
     #terc{
         height: 1600px;
     }
