@@ -1,20 +1,21 @@
 @charset "UTF-8";
 
-@media screen and (min-width:500px) and (max-width: 992px) {
+@media screen and (min-width:300px) and (max-width: 992px) {
     #initial>.Titulo{
         font-size: 10vw;
      
     }
     #calculo{
+        width: 30vw;
         font-size: 1em;
     }
     #terc{
-        min-height: 400px;
-        height: 1000px;
+        height: 1600px;
     }
     #terc>p{
+        text-align: left;
         display: block;
-        height: 900px;
+        height: 1550px;
     }
     footer{
         height: 5vh;
