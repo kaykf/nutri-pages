@@ -1,10 +1,22 @@
 @charset "UTF-8";
 
 @media screen and (min-width:500px) and (max-width: 992px) {
-    .Titulo{
-        font-size: 15vw;
+    #initial>.Titulo{
+        font-size: 10vw;
      
     }
-    h1{
+    #calculo{
+        font-size: 1em;
+    }
+    #terc{
+        min-height: 400px;
+        height: 1000px;
+    }
+    #terc>p{
+        display: block;
+        height: 900px;
+    }
+    footer{
+        height: 5vh;
     }
 }
