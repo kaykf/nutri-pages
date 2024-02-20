@@ -18,10 +18,10 @@ html,body{
     padding-bottom: 10vh;
     line-height: 80vh;
     padding-left: 30px;
-    font-size: 3.5vw;
 }
 .Titulo {
     font-family: "Cedarville Cursive", cursive;
+    font-size: 3.5vw;
     font-weight: 400;
     font-style: normal;
   }
