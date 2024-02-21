@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width:300px) and (max-width: 992px) {
+@media screen and (min-width:300px) and (max-width: 768px) {
     #initial>.Titulo{
         font-size: 10vw;
      
@@ -13,12 +13,12 @@
         background-color: rgb(32, 212, 8);
     }
     #terc{
-        height: 1600px;
+        height: 1650px;
     }
     #terc>p{
         text-align: left;
         display: block;
-        height: 1550px;
+        height: 1600px;
     }
     footer{
         height: 5vh;
