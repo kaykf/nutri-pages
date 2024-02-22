@@ -36,13 +36,11 @@
         background-color: rgb(32, 212, 8);
     }
     #terc{
-        min-height: 1500px;
-        max-height: 1650px;
+        height: 1650px;
     }
     #terc>p{
         text-align: left;
-        min-height: 1400px;
-        max-height:1500px;
+        height:1650px;
     }
     footer{
         height: 5vh;
