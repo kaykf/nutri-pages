@@ -87,6 +87,10 @@ input{
     background-color: rgb(32, 212, 8);
     cursor: pointer;
 }
+#resultado{
+    text-align: center;
+    font-weight: bolder;
+}
 #terc{
     box-shadow: inset 0px 0px 13px  rgba(0, 0, 0, 0.496);
     background-image: url(../img/imgLaranjas.jpg);
