@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width:300px) and (max-width: 768px) {
+@media screen and (min-width:300px) and (max-width: 350px) {
     #initial>.Titulo{
         font-size: 10vw;
      
@@ -17,8 +17,146 @@
     }
     #terc>p{
         text-align: left;
-        display: block;
-        height: 1600px;
+        min-height:1600px;
+    }
+    footer{
+        height: 5vh;
+    }
+}
+@media screen and (min-width:350px) and (max-width: 400px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        min-height: 1500px;
+        max-height: 1650px;
+    }
+    #terc>p{
+        text-align: left;
+        min-height: 1400px;
+        max-height:1500px;
+    }
+    footer{
+        height: 5vh;
+    }
+}
+@media screen and (min-width:400px) and (max-width: 500px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        height: 1350px;
+    }
+    #terc>p{
+        text-align: left;
+        min-height:1200px;
+    }
+    footer{
+        height: 5vh;
+    }
+}
+@media screen and (min-width:500px) and (max-width: 600px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        height: 1150px;
+    }
+    #terc>p{
+        text-align: left;
+        min-height:1000px;
+    }
+    footer{
+        height: 5vh;
+    }
+}
+@media screen and (min-width:600px) and (max-width: 750px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        height: 900px;
+    }
+    #terc>p{
+        text-align: left;
+        min-height:800px;
+    }
+    footer{
+        height: 5vh;
+    }
+}@media screen and (min-width:750px) and (max-width: 900px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        height: 700px;
+    }
+    #terc>p{
+        text-align: left;
+        height:600px;
+    }
+    footer{
+        height: 5vh;
+    }
+}
+@media screen and (min-width:900px) and (max-width: 1150px) {
+    #initial>.Titulo{
+        font-size: 10vw;
+     
+    }
+    #calculo{
+        width: 30vw;
+        font-size: 1em;
+    }
+    #calculo:active{
+        background-color: rgb(32, 212, 8);
+    }
+    #terc{
+        height: 600px;
+    }
+    #terc>p{
+        text-align: left;
+        min-height:500px;
     }
     footer{
         height: 5vh;
